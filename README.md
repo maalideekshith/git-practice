@@ -1,2 +1,2 @@
 # git-practice
-Learning Git and GitHub
+Learning Git and Github through Chatgpt
